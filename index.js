@@ -1,1 +1,6 @@
-console.log("sh");l
+const square = (x) => {
+
+    console.log(x*x);
+}
+
+square(5);
